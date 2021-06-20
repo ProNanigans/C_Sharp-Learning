@@ -1,0 +1,11 @@
+PAYSLIP FOR JUL 2021
+==========================
+Name of Staff: John
+Hours Worked: 21
+
+Basic Pay: $630.00
+Overtime Pay: $0.00
+
+==========================
+Total Pay: $630.00
+==========================

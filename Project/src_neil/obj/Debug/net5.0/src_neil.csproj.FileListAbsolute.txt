@@ -1,0 +1,15 @@
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.csprojAssemblyReference.cache
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.AssemblyInfoInputs.cache
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.AssemblyInfo.cs
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.csproj.CoreCompileInputs.cache
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/src_neil.deps.json
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/src_neil.runtimeconfig.json
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/src_neil.runtimeconfig.dev.json
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/src_neil.dll
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/ref/src_neil.dll
+/Users/firsttry/Desktop/Project/src_neil/bin/Debug/net5.0/src_neil.pdb
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.dll
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/ref/src_neil.dll
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.pdb
+/Users/firsttry/Desktop/Project/src_neil/obj/Debug/net5.0/src_neil.genruntimeconfig.cache

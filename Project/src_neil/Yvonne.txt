@@ -1,0 +1,11 @@
+PAYSLIP FOR JUL 2021
+==========================
+Name of Staff: Yvonne
+Hours Worked: 30
+
+Basic Pay: $900.00
+Overtime Pay: $0.00
+
+==========================
+Total Pay: $900.00
+==========================
